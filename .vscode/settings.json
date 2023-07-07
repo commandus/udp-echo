@@ -1,0 +1,14 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "esp_compiler.h": "c",
+    "platform-defs.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "cmake.configureOnOpen": false,
+  "idf.port": "/dev/ttyUSB0",
+  "idf.openOcdConfigs": [
+    "board/esp32-bridge.cfg"
+  ],
+  "idf.flashType": "UART"
+}
